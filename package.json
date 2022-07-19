@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/GGGamesXDlol/async-landingg.git"
+    "url": "git+ssh://git@github.com/GGGamesXDlol/async-landing.git"
   },
   "keywords": [
     "javascript"
@@ -16,7 +16,7 @@
   "author": "GGGamesXDlol",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GGGamesXDlol/async-landingg/issues"
+    "url": "https://github.com/GGGamesXDlol/async-landing/issues"
   },
-  "homepage": "https://github.com/GGGamesXDlol/async-landingg#readme"
+  "homepage": "https://github.com/GGGamesXDlol/async-landing#readme"
 }
